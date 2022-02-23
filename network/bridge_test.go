@@ -1,7 +1,7 @@
 package network
 import(
 	"testing"
-	"github.com/xianlubird/mydocker/container"
+	"github.com/mydocker/container"
 )
 
 func TestBridgeInit(t *testing.T) {

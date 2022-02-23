@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/xianlubird/mydocker",
+	"ImportPath": "github.com/mydocker",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v74",
 	"Deps": [
